@@ -105,7 +105,7 @@ filter {
   values = ["hvm"]
  }
 
- owners = ["099720109477"] # Canonical
+ owners = ["679593333241"] # Canonical
 }
 
 resource "aws_eip" "hashicat" {
